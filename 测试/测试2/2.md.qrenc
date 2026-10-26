@@ -1,0 +1,3 @@
+QUIETREPO-ENCRYPTED v1
+{"cipher":"AES-256-GCM","content":"markdown","keys":[{"hint":"4","kdf":{"alg":"PBKDF2-SHA256","iterations":600000,"salt":"fEZFCHkFdwA3KeUxyx7Nqw=="},"kid":"k1_ef85dd8dd8f71b4bb5439e2e10ef404bd79b7153ddc3e0e0175955ae8f970474","role":"default","wrapped":"JKq18fCfsNdStc6PM+wK+FtsaUx/0j7Pk1HRHI2msioLpXVYGv6AAFqPCvk9rnmzxE5+Sb2VT9Vin0CM"},{"hint":"QuietRepo 恢复密钥","kdf":{"alg":"PBKDF2-SHA256","iterations":100000,"salt":"FtRInoUTvYqsfiwO+SKyBg=="},"kid":"k1_7d9f27ae6a808fdcc008ba2511a2fb6860df4f61b372b9ee3b85ad6f133ef3f6","role":"recovery","wrapped":"LxvxOMUt/isSQpRarM0qPT1DwDposD190cEBz1ETbJ9YS732m/sowKZBQ5fb4ofi1oQ5tPcjpoyVKDqe"}],"nonce":"jaw91xietZyYgV4r","v":1}
+e3V9WflnqKCOmghMDC0ZZ6cwqtoH
